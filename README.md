@@ -81,5 +81,4 @@ To request a quote or activate your license, please contact:
 *Please use the subject line: "Commercial License Request - pwd-crypto"*
 
 ---
-*Note: This software is built using the Dioxus framework (MIT/Apache 2.0). All third-party open-source components remain
-subject to their respective licenses.*
+*All third-party open-source components remain subject to their respective licenses.*
