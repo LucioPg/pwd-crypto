@@ -59,6 +59,27 @@ let encrypted = encrypt_string("secret data", &cipher, &nonce)?;
 let decrypted = decrypt_to_string(&encrypted, &cipher, &nonce)?;
 ```
 
-## License
+## License and Commercial Use
 
-MIT
+This project is licensed under the **Prosperity Public License 3.0.0**.
+
+### What does this mean for you?
+
+- **Personal and Non-Profit Use:** You are free to use, study, and modify this software at no cost for personal,
+  educational, or research purposes.
+- **Commercial Use:** If you are a company or a professional using this software for profit-making activities, you are
+  granted a **30-day trial period**.
+
+### How to Obtain a Commercial License
+
+To continue using the software for commercial purposes after the 30-day trial, you must purchase a dedicated commercial
+license.
+
+To request a quote or activate your license, please contact:
+**ldcproductions@proton.me**
+
+*Please use the subject line: "Commercial License Request - pwd-crypto"*
+
+---
+*Note: This software is built using the Dioxus framework (MIT/Apache 2.0). All third-party open-source components remain
+subject to their respective licenses.*
